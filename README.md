@@ -144,3 +144,8 @@ Dashboard for industrial machinery monitoring with **3D visualization** using **
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourdesmc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourdesmc&theme=vue-dark&layout=compact&hide_border=true" />
+</p>
