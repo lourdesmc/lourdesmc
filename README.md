@@ -37,7 +37,7 @@ An interactive video game designed to improve linguistic skills in children with
 
 ---
 
-### 💻 **[YOLOTOL](https://github.com/lourdesmc/yolotol)** – Fullstack E-Commerce PWA
+### 💻 **[YOLOTOL](https://github.com/lourdesmc/lourdesmc/tree/59d4dc567b19cb00d1f17b8ff14ba290c848ee4d/YOLOTOL)** – Fullstack E-Commerce PWA
 A Progressive Web Application with complete e-commerce functionality including user authentication, shopping cart management, and secure payment processing.
 
 **Tech Stack:** ASP.NET MVC | MySQL | JavaScript | HTML5 | CSS3 | PayPal API
