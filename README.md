@@ -21,7 +21,7 @@
 
 ## 🧩 Featured Projects
 
-### 🎮 **[ExpresaTEA](https://github.com/lourdesmc/expresatea)** – Educational Game for Children with ASD
+### 🎮 **[ExpresaTEA]()** – Educational Game for Children with ASD
 An interactive video game designed to improve linguistic skills in children with Autism Spectrum Disorder (ASD) through **Natural Language Processing** and gamified learning.
 
 **Tech Stack:** Unity | C# | Python | Wit.ai (Speech Analysis) | PLN
@@ -33,7 +33,7 @@ An interactive video game designed to improve linguistic skills in children with
 - Published research: Presented at **CEIAAIT 2024 Congress (UNAM)**
 
 📷 **Project Media & Demos**  
-➡️ https://github.com/lourdesmc/lourdesmc/tree/main/ExpresaTEA_Media
+➡️ [https://github.com/lourdesmc/lourdesmc/tree/main/ExpresaTEA_Media](https://youtu.be/Xz6bDLLp9GM?si=ngt7s2MvT5RmhEMC)
 
 ---
 
@@ -49,16 +49,6 @@ A Progressive Web Application with complete e-commerce functionality including u
 - Role-based access control (Admin/Customer)
 - Responsive design for desktop and mobile
 - Full project lifecycle: design, development, and deployment
-
----
-
-### 📚 **[Book Register Form](https://github.com/lourdesmc/formulario-libros-react)** – React Practice Project
-A simple yet functional application demonstrating React hooks and state management for dynamic data handling.
-
-**Tech Stack:** React | JavaScript | CSS3
-
-🌐 **Live Demo**  
-➡️ https://lourdesmc.github.io/formulario-libros-react/
 
 ---
 
