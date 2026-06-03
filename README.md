@@ -14,7 +14,7 @@
 - 🎓 Currently completing **Master's in Computer Systems** (specializing in fullstack development, data analytics, and NLP).
 - 🌱 Continuously improving skills in **React**, **Angular**, **Spring Boot**, and data-driven development.  
 - 🎯 Areas of interest: web development, educational technology, artificial intelligence, virtual environments, and game design.  
-- 📄 Check my CV → **[CV_Maria_Malagon.pdf](https://github.com/lourdesmc/lourdesmc/blob/main/CV_Maria_Malagon.pdf)**  
+- 📄 Check my CV → **[CV_Maria_Malagon.pdf](https://github.com/lourdesmc/lourdesmc/blob/main/CV_Maria_Malagon_Fullstack_Jr_EN.pdf)**  
 - 📫 Contact me: **lulu.malagon21@gmail.com**
 
 ---
